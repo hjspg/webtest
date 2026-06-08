@@ -1,3 +1,4 @@
+成功：admin / align
 成功：admin / 1997
 成功：admin / html
 成功：admin / 26px

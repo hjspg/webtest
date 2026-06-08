@@ -1,3 +1,4 @@
+成功：admin / padding
 成功：admin / font
 成功：admin / charset
 成功：admin / store

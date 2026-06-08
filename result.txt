@@ -1,3 +1,4 @@
+成功：admin / text
 成功：admin / serif
 成功：admin / body
 成功：admin / chrome

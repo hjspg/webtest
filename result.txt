@@ -1,3 +1,4 @@
+成功：root / equiv
 成功：root / sans
 成功：root / black
 成功：root / microsoft

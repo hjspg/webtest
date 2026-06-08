@@ -1,3 +1,4 @@
+成功：admin / class
 成功：admin / 3a87ad
 成功：admin / equiv
 成功：admin / sans

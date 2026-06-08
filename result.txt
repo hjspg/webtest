@@ -1,3 +1,4 @@
+成功：admin / chrome
 成功：admin / center
 成功：admin / https
 成功：admin / wed

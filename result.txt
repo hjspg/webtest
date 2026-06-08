@@ -1,3 +1,4 @@
+成功：root / color
 成功：root / pragma
 成功：root / compatible
 成功：root / hiragino

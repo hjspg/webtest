@@ -1,3 +1,4 @@
+成功：root / compatible
 成功：root / hiragino
 成功：root / width
 成功：root / root123

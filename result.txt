@@ -1,3 +1,4 @@
+成功：admin / target
 成功：admin / width
 成功：admin / root123
 成功：admin / lang

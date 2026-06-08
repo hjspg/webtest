@@ -1,3 +1,4 @@
+成功：admin / background
 成功：admin / http
 成功：admin / blank
 成功：admin / style

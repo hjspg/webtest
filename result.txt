@@ -1,3 +1,4 @@
+成功：admin / scale
 成功：admin / size
 成功：admin / text
 成功：admin / serif

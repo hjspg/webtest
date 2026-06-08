@@ -1,3 +1,4 @@
+成功：root / control
 成功：root / web
 成功：root / color
 成功：root / pragma

@@ -1,3 +1,4 @@
+成功：admin / for
 成功：admin / scale
 成功：admin / size
 成功：admin / text

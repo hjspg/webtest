@@ -1,3 +1,4 @@
+成功：admin / store
 成功：admin / name
 成功：admin / line
 成功：admin / auto

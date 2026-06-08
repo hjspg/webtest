@@ -1,3 +1,4 @@
+成功：admin / ftp
 成功：admin / compatible
 成功：admin / bug
 成功：admin / target

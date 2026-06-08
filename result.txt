@@ -1,3 +1,4 @@
+成功：admin / renderer
 成功：admin / capable
 成功：admin / web
 成功：admin / color

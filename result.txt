@@ -1,3 +1,4 @@
+成功：root / edge
 成功：root / format
 成功：root / detection
 成功：root / revalidate

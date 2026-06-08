@@ -1,3 +1,4 @@
+成功：admin / root123
 成功：admin / lang
 成功：admin / edge
 成功：admin / title

@@ -1,3 +1,4 @@
+SUCCESS → admin:123456
 SUCCESS → admin:password
 SUCCESS → test:admin123
 SUCCESS → test:123456

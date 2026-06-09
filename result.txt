@@ -1,3 +1,4 @@
+SUCCESS → test:123456
 SUCCESS → test:password
 SUCCESS → root:123456
 SUCCESS → root:password

@@ -1,3 +1,4 @@
+SUCCESS → root:password
 SUCCESS → admin:admin123
 SUCCESS → admin:password
 SUCCESS → test:admin123
